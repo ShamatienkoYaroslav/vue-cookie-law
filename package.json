@@ -1,15 +1,12 @@
 {
-  "name": "vue-cookie-law",
-  "version": "1.9.0",
+  "name": "vue-cookie-law-with-type",
+  "version": "2.0.0",
   "description": "🍪 👮 EU Cookie Law Plugin for Vue.js",
-  "author": "Jakub Juszczak <jakub@posteo.de>",
+  "author": "SHamatienko Yaroslav <yaroslav.shamatienko@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:apertureless/vue-cookie-law.git"
-  },
-  "bugs": {
-    "url": "https://github.com/apertureless/vue-cookie-law/issues"
+    "url": "git+ssh://git@github.com:ShamatienkoYaroslav/vue-cookie-law.git"
   },
   "keywords": [
     "Vuejs",
@@ -18,10 +15,10 @@
     "EU law",
     "Cookie info"
   ],
-  "main": "dist/vue-cookie-law.js",
-  "unpkg": "dist/vue-cookie-law.js",
-  "module": "dist/vue-cookie-law.js",
-  "jsnext:main": "dist/vue-cookie-law.js",
+  "main": "dist/vue-cookie-law-with-type.js",
+  "unpkg": "dist/vue-cookie-law-with-type.js",
+  "module": "dist/vue-cookie-law-with-type.js",
+  "jsnext:main": "dist/vue-cookie-law-with-type.js",
   "files": [
     "dist"
   ],

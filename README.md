@@ -9,7 +9,7 @@ EU Cookie Law Plugin for Vue.js
 📺 [Demo](https://apertureless.github.io/vue-cookie-law/)
 
 ## 🔧  Install
-`yarn add vue-cookie-law`
+`npm i vue-cookie-law-with-type`
 
 ## 👈 Usage
 
@@ -104,20 +104,3 @@ If you create your own theme, postfix the class.
 ```
 
 And then pass your theme name to the component.
-
-## :scroll: Changelog
-Details changes for each release are documented in the [CHANGELOG.md](https://github.com/apertureless/vue-cookie-law/blob/develop/CHANGELOG.md).
-
-
-## :exclamation: Issues
-Please make sure to read the [Issue Reporting Checklist](https://github.com/apertureless/vue-cookie-law/blob/develop/CONTRIBUTING.md#issue-reporting-guidelines) before opening an issue. Issues not conforming to the guidelines may be closed immediately.
-
-
-## :muscle: Contribution
-Please make sure to read the [Contributing Guide](https://github.com/apertureless/vue-cookie-law/blob/develop/CONTRIBUTING.md) and [Code of Conduct](code-of-conduct.md) before making a pull request.
-
-## :copyright: License
-
-[MIT](http://opensource.org/licenses/MIT)
-
-<a href="https://www.buymeacoffee.com/xcqjaytbl" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>

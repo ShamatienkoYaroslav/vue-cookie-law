@@ -11,7 +11,7 @@ function resolve (dir) {
 }
 
 var banner = [
-    'vue-cookie-law v' + npmCfg.version,
+    'vue-cookie-law-with-type v' + npmCfg.version,
     '(c) ' + (new Date().getFullYear()) + ' ' + npmCfg.author,
     npmCfg.homepage
 ].join('\n')
@@ -20,7 +20,7 @@ module.exports = {
     entry: './src/components/CookieLaw.vue',
     output: {
         path: path.resolve(__dirname, '../dist'),
-        filename: 'vue-cookie-law.js',
+        filename: 'vue-cookie-law-with-type.js',
         library: 'CookieLaw',
         libraryTarget: 'umd',
         umdNamedDefine: true
